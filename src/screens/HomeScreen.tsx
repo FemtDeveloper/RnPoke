@@ -10,7 +10,6 @@ const HomeScreen = () => {
   const {top} = useSafeAreaInsets();
   const {simplePokemonList, loadPokemons} = usePokemonPaginated();
 
-  console.log({simplePokemonList});
   return (
     <>
       <Image

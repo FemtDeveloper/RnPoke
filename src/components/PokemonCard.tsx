@@ -12,7 +12,7 @@ import {FadeInImage} from './FadeInImage';
 import ImageColors from 'react-native-image-colors';
 import {useRef} from 'react';
 import {useNavigation} from '@react-navigation/native';
-import {RootStackParams} from '../navigator/Navigator';
+import {RootStackParams} from '../navigator/Tab1';
 import {StackNavigationProp} from '@react-navigation/stack';
 
 interface Props {
